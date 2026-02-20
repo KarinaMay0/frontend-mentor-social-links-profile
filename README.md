@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-- Changing margin from <p> elements is normal for paragraph spacing, but use layout systems for alignment.
+- Changing margin from p elements is normal for paragraph spacing, but use layout systems for alignment.
 - align-item doesn't just control placement, but also content width (in a column flex container).
 - Flexbox is useful for centering elements, even if there is only one item inside the flexbox.
 - Use justify-content for layout distribution over remaining space and use gaps for consistent spacing between siblings.
