@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/solution-screenshot.png)
+![](./design/solution-screenshot-1.png)
+![](./design/solution-screenshot-2.png)
 
 ### Links
 
@@ -49,10 +50,11 @@ Users should be able to:
 - I should use justify-content for layout distribution over remaining space and use gaps for consistent spacing between siblings.
 - How to use CSS variables for custom colors.
 - How to use min() or max() for responsiveness.
+- How to add reduced motion for accessibility.
 
 ### Continued development
 
-I plan to continue furthering my understanding of flexbox, grid, and responsiveness as I'm not entirely comfortable with them yet. I also plan on learning more about the appropriate semantic HTML to use in different contexts.
+I plan to continue practicing flexbox and grid as I'm not entirely comfortable with them yet. I also need to learn more about responsive and accessible solutions. Lastly, I also plan to familiarize myself with semantic HTML.
 
 ### Useful resources
 
