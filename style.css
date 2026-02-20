@@ -7,10 +7,15 @@
 }
 
 body {
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
     background-color: var(--grey-900);
     font-family: 'Inter', sans-serif;
     color: var(--white);
+    text-align: center;
 }
 
 h1 {
@@ -34,14 +39,9 @@ p {
     justify-content: space-between;
     align-items: stretch;
     height: 600px;
-    width: 380px;
-    margin: auto;
-    position: absolute;
+    width: max(25dvw, 320px);
     padding: 40px;
     box-sizing: border-box;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     border-radius: 10px;
     background-color: var(--grey-800);
 }

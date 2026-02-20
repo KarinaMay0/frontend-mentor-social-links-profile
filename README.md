@@ -45,21 +45,22 @@ Users should be able to:
 - Changing margin from p elements is normal for paragraph spacing, but use layout systems for alignment.
 - align-item doesn't just control placement, but also content width (in a column flex container).
 - Flexbox is useful for centering elements, even if there is only one item inside the flexbox.
-- Use justify-content for layout distribution over remaining space and use gaps for consistent spacing between siblings.
-- Use CSS variables for custom colors.
+- I should use justify-content for layout distribution over remaining space and use gaps for consistent spacing between siblings.
+- How to use CSS variables for custom colors.
+- How to use min() or max() for responsiveness.
 
 ### Continued development
 
-I plan to continue practicing flexbox and grid as I'm not entirely comfortable with them yet and when and what semantic HTML to use in different contexts.
+I plan to continue furthering my understanding of flexbox, grid, and responsiveness as I'm not entirely comfortable with them yet. I also plan on learning more about the appropriate semantic HTML to use in different contexts.
 
 ### Useful resources
 
-- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is definitely the best flexbox guide out there. Its inclusion of illustrations is very helpful in understanding how flexbox layout works.
-- [CSS w3schools](https://www.w3schools.com/Css/default.asp) - This is a good overview of every CSS property.
+- [CSS tricks flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is definitely the best flexbox guide out there. Its inclusion of illustrations is very helpful in understanding how flexbox layout works.
+- [CSS w3schools](https://www.w3schools.com/cssref/index.php) - This is a good overview of every CSS property.
 
 ### AI Collaboration
 
-I used ChatGPT for small issues where I could copy and paste code easily. It's useful for pointing out little quirks in CSS that's not immediately obvious and showing what best practices for each case look like and why they work. I used integrated GitHub Copilot in Visual Studio Code for a thorough survey of my workspace to assess what I've done right and what could be improved upon. It helped me figure out the mental model surrounding semantic HTML. GitHub Copilot referenced the provided prompt in AGENTS.md by Frontend Mentor to decide its approach on its answers.
+I used ChatGPT for small issues where I could copy and paste code easily. It's useful for pointing out little quirks in CSS that's not immediately obvious and showing what best practices for each case look like and why they work. I used integrated GitHub Copilot in Visual Studio Code for a thorough survey of my workspace to assess what I've done right and what could be improved upon. It helped me figure out the mental model surrounding semantic HTML. GitHub Copilot referenced the provided prompt in AGENTS.md by Frontend Mentor to decide its guidance approach.
 
 ## Author
 
