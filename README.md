@@ -59,7 +59,7 @@ I plan to continue practicing flexbox and grid as I'm not entirely comfortable w
 
 ### AI Collaboration
 
-I used ChatGPT for small issues where I could copy and paste code easily. It's useful for pointing out little quirks in CSS that's not immediately obvious and showing what best practices for each case look like and why they work. I used integrated GitHub Copilot in Visual Studio Code for a thorough survey of my workspace to assess what I've done right and what could be improved upon. It helped me figure out the mental model surrounding semantic HTML. GitHub Copilot utilizes the provided prompt in AGENTS.md by Frontend Mentor to decide its approach on its answers.
+I used ChatGPT for small issues where I could copy and paste code easily. It's useful for pointing out little quirks in CSS that's not immediately obvious and showing what best practices for each case look like and why they work. I used integrated GitHub Copilot in Visual Studio Code for a thorough survey of my workspace to assess what I've done right and what could be improved upon. It helped me figure out the mental model surrounding semantic HTML. GitHub Copilot referenced the provided prompt in AGENTS.md by Frontend Mentor to decide its approach on its answers.
 
 ## Author
 
