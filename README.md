@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/css-flexbox-solution-NWajGpf9xn)
-[Live Site](https://karinamay0.github.io/frontend-mentor-social-links-profile/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/css-flexbox-solution-NWajGpf9xn)
+- [Live Site](https://karinamay0.github.io/frontend-mentor-social-links-profile/)
 
 ## My process
 
